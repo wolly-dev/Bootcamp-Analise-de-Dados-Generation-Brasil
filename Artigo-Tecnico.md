@@ -174,8 +174,6 @@ A **NetGuard Solutions** é uma empresa líder no desenvolvimento de soluções 
 
 ## 📬 Fale Conosco
 
- |  | 
-
 - **Site:** [site da NetGuard Solutions]
 - **E-mail:** [e-mail de contato]
 - **LinkedIn:** [LinkedIn]
